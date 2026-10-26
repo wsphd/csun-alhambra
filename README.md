@@ -30,6 +30,25 @@
 
 * Information Systems
   * The effective use of information technology, computers, and telecommunications networks to support management decision-making and corporate strategy, in addition to providing all necessary operational level support for an organization.\
+<img src = "images/initial-design.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/initial-design.jpeg">\
+
+* Global Supply Chain Management
+  * The range of positions in the supply chain management area include sourcing and procurement, demand planning and distribution, logistics management, transportation, warehousing, materials handling, order processing, and customer value analysis.\
+<img src = "images/in-construction.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/in-construction.jpeg">\
+
+* Systems and Operations Management
+  * Manages operatrions in various industries, such as aerospace, electronics, automotive, health care, airlines, transportation, biotechnology, software, and banking. The range of positions includes operations planning and scheduling, inventory and materials management, quality management, project management, systems analysis and design, and decision support systems.\
+<img src = "images/in-parade.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/in-parade.jpeg">\
+
+* Business Analytics
+  * Addresses the opportunities and challenges opened up by massive amounts of data, methodological developments, and the explosion in computing power and storage capacity. Students build and develop the ability to apply their knowledge and skills to business problems for data-driven decision-making.\
+<img src = "images/on-display.jpg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/on-display.jpg">\
+
+
+## (orig) Majors (as might be applied to a Rose Parade float)
+
+* Information Systems
+  * The effective use of information technology, computers, and telecommunications networks to support management decision-making and corporate strategy, in addition to providing all necessary operational level support for an organization.\
 ![https://github.com/wsphd/csun-alhambra/images/initial-design.jpeg](images/initial-design.jpeg)\
 
 * Global Supply Chain Management
