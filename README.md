@@ -29,20 +29,31 @@
 ## Majors (as might be applied to a Rose Parade float)
 
 * Information Systems
-  * computing and networks for initial design by students, design by professional team\
-  * communications (e.g., email, Slack, 'Gram, others) for design decisions, strategy with the City, alignment with Tournament of Roses\
+  * IT computers (PCs/Macs/Cloud services, etc.) (initial sketches from students, professional computer-aided design, files, file formats)\
+  * IT networks (email, Slack, 'Gram, etc.) (communication among City stakeholders, communication with the Tournament of Roses, communication with the Press)\
+  * management decision-making and corporate strategy (collection, storage, security, and access to data and databases about specific float details)\
 <img src = "images/initial-design.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/initial-design.jpeg">\
 
 * Global Supply Chain Management
+  * sourcing and procurement\
+  * demand planning and distribution\
+  * logistics management\
+  * transportation\
+  * warehousing\
+  * materials handling\
+  * order processing\
+  * and customer value analysis.
   * sourcing and procurement of materials including various flowers and related flora.\
   * logistics management (some flowers have a short shelf life), transportation (of the float from Irwindale to Pasadena), warehousing (some flowers will need to be stored chilled), materials handling, order processing, and customer value analysis.\
 <img src = "images/in-construction.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/in-construction.jpeg">\
 
 * Systems and Operations Management
+  * The option in Systems and Operations Management prepares students for rewarding careers in various industries, such as aerospace, electronics, automotive, health care, airlines, transportation, biotechnology, software, and banking. The range of positions includes operations planning and scheduling, inventory and materials management, quality management, project management, systems analysis and design, decision support systems, and supply chain management.
   * planning and scheduling of volunteers, inventory and materials management (of flowers and construction materials), quality management (does the final float meet its design criteria), project management (end-to-end, design/build), systems analysis and design (how the float electronics work), and decision support systems (various software to help with float layout).\
 <img src = "images/in-parade.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/in-parade.jpeg">\
 
 * Business Analytics
+  * The option in Business Analytics focuses on preparing students for careers in a very fast-growing field of business analytics. The program provides a strong foundation in business analytics that addresses the opportunities and challenges opened up by massive amounts of data, methodological developments, and the explosion in computing power and storage capacity. The program ensures that students build and develop the ability to apply their knowledge and skills to business problems for data-driven decision-making. The department also offers a minor in Business Analytics program, allowing students to pursue a secondary interest in business analytics.
   * How many visitors came to see the float on display last year? How many visitors might come to see the float on display this year? Precisely, how manyWas there a difference in visitor satisfaction between last year and this year? Was there a difference in visitor satisfaction between last year and this year?\
 <img src = "images/on-display.jpg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/on-display.jpg">\
 
