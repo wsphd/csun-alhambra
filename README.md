@@ -29,9 +29,8 @@
 ## Majors (as might be applied to a Rose Parade float)
 
 * Information Systems
-  * IT computers (PCs/Macs/Cloud services, etc.) (initial sketches from students, professional computer-aided design, files, file formats)\
-  * IT networks (email, Slack, 'Gram, etc.) (communication among City stakeholders, communication with the Tournament of Roses, communication with the Press)\
-  * management decision-making and corporate strategy (collection, storage, security, and access to data and databases about specific float details)\
+  * IT computers (What is the number, configuration, and use of PCs and Macs?  Which Cloud services, such as AWS, should we use for servers and services?  Which files and file formats do we use of design objects?)\
+  * IT networks (Should we use texting, email, Slack, 'Gram, or something else for communications among various stakeholders? How do store and share data about float details securely?)\
 <img src = "images/initial-design.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/initial-design.jpeg">\
 
 * Global Supply Chain Management
