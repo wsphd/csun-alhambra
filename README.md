@@ -34,25 +34,25 @@
 <img src = "images/initial-design.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/initial-design.jpeg">\
 
 * Global Supply Chain Management
-  * sourcing and procurement\
-  * demand planning and distribution\
-  * logistics management\
-  * transportation\
-  * warehousing\
-  * materials handling\
-  * order processing\
-  * and customer value analysis.
-  * sourcing and procurement of materials including various flowers and related flora.\
-  * logistics management (some flowers have a short shelf life), transportation (of the float from Irwindale to Pasadena), warehousing (some flowers will need to be stored chilled), materials handling, order processing, and customer value analysis.\
+  * sourcing and procurement (Which flowers can be locally sourced?  Which need to come from overseas?)\
+  * demand planning and distribution (How many of each type do we need?)\
+  * logistics management and transportation (How do we move the completed float from Irwindale to Pasadena?)\
+  * warehousing and materials handling (Do some flowers need to be kept chilled?  How much space do we need to build the float electronics?)\
 <img src = "images/in-construction.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/in-construction.jpeg">\
 
 * Systems and Operations Management
-  * The option in Systems and Operations Management prepares students for rewarding careers in various industries, such as aerospace, electronics, automotive, health care, airlines, transportation, biotechnology, software, and banking. The range of positions includes operations planning and scheduling, inventory and materials management, quality management, project management, systems analysis and design, decision support systems, and supply chain management.
-  * planning and scheduling of volunteers, inventory and materials management (of flowers and construction materials), quality management (does the final float meet its design criteria), project management (end-to-end, design/build), systems analysis and design (how the float electronics work), and decision support systems (various software to help with float layout).\
+  * operations planning and scheduling (How many volunteers do we need in the last week before Jan. 1 to attach flowers?)\
+  * inventory and materials management (Are all parts, and spare parts, cataloged, organized, and readily accessible?)\
+  * quality management (Does the final float design meet the initial specifications?)\
+  * project management (Are the scope, timeline, labor, materials, and risks being managed throughout the entire float lifecycle?)\
+  * systems analysis and design (Have we mapped out each process, each workflow, and related interactions to understand the entire float ecosystem?)\
+  * decision support systems (Have our analytical spreadsheets and software been programmed well enough to help leverage opportunities and overcome challenges?)\
 <img src = "images/in-parade.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/in-parade.jpeg">\
 
 * Business Analytics
-  * The option in Business Analytics focuses on preparing students for careers in a very fast-growing field of business analytics. The program provides a strong foundation in business analytics that addresses the opportunities and challenges opened up by massive amounts of data, methodological developments, and the explosion in computing power and storage capacity. The program ensures that students build and develop the ability to apply their knowledge and skills to business problems for data-driven decision-making. The department also offers a minor in Business Analytics program, allowing students to pursue a secondary interest in business analytics.
-  * How many visitors came to see the float on display last year? How many visitors might come to see the float on display this year? Precisely, how manyWas there a difference in visitor satisfaction between last year and this year? Was there a difference in visitor satisfaction between last year and this year?\
+  * descriptive analytics (How many visitors came to see the floats on display this year?  How does that compare to last year?)\
+  * diagnostic analytics (Is there a statistically significant difference in visitors due to, say, weather?)\
+  * predictive analytics (How many families are likely to come next year?  How many senior citizens are likely to come next year?)\
+  * prescriptive analytics (Which volunteers should be staged on which days and at which times to visitors with the Alhambra float?)\
 <img src = "images/on-display.jpg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/on-display.jpg">\
 
