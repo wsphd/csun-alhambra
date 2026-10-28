@@ -11,7 +11,7 @@
 **Fall, 2026**
 
 
-## Majors
+## Systems and Operations (SOM) Department Majors
 
 * Information Systems
   * The study of Information Systems (IS) centers on the effective use of information technology—computers and telecommunications networks—to support management decision-making and corporate strategy, in addition to providing all necessary operational level support for an organization.
@@ -26,7 +26,7 @@
   * The option in Business Analytics focuses on preparing students for careers in a very fast-growing field of business analytics. The program provides a strong foundation in business analytics that addresses the opportunities and challenges opened up by massive amounts of data, methodological developments, and the explosion in computing power and storage capacity. The program ensures that students build and develop the ability to apply their knowledge and skills to business problems for data-driven decision-making. The department also offers a minor in Business Analytics program, allowing students to pursue a secondary interest in business analytics.
 
 
-## Majors (as might be applied to a Rose Parade float)
+## Majors (as might be applied to the City's Rose Parade float)
 
 * Information Systems
   * IT computers (What is the number, configuration, and use of PCs and Macs?  Which Cloud services, such as AWS, should we use for servers and services?  Which files and file formats do we use of design objects?)\
