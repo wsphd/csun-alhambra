@@ -33,6 +33,7 @@
   * *IT networks* (Should we use texting, email, Slack, 'Gram, or something else for communications among various stakeholders? How do store and share data about float details securely?)
 <br />
 <img src = "images/initial-design.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/initial-design.jpeg">
+<br />
 
 * **Global Supply Chain Management**
   * *sourcing and procurement* (Which flowers can be locally sourced?  Which need to come from overseas?)
@@ -41,6 +42,7 @@
   * *warehousing and materials handling* (Do some flowers need to be kept chilled?  How much space do we need to build the float electronics?)
 <br />
 <img src = "images/in-construction.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/in-construction.jpeg">
+<br />
 
 * **Systems and Operations Management**
   * *operations planning and scheduling* (How many volunteers do we need in the last week before Jan. 1 to attach flowers?)
@@ -51,6 +53,7 @@
   * *decision support systems* (Have our analytical spreadsheets and software been programmed well enough to help leverage opportunities and overcome challenges?)
 <br />
 <img src = "images/in-parade.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/in-parade.jpeg">
+<br />
 
 * **Business Analytics**
   * *descriptive analytics* (How many visitors came to see the floats on display this year?  How does that compare to last year?)
@@ -59,4 +62,5 @@
   * *prescriptive analytics* (Which volunteers should be staged on which days and at which times to visitors with the Alhambra float?)
 <br />
 <img src = "images/on-display.jpg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/on-display.jpg">
+
 
