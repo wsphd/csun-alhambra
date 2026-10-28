@@ -29,30 +29,30 @@
 ## Majors (as might be applied to the City's Rose Parade float)
 
 * **Information Systems**
-  * IT computers (What is the number, configuration, and use of PCs and Macs?  Which Cloud services, such as AWS, should we use for servers and services?  Which files and file formats do we use of design objects?)\
+  * IT computers (What is the number, configuration, and use of PCs and Macs?  Which Cloud services, such as AWS, should we use for servers and services?  Which files and file formats do we use of design objects?)
   * IT networks (Should we use texting, email, Slack, 'Gram, or something else for communications among various stakeholders? How do store and share data about float details securely?)\
 <img src = "images/initial-design.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/initial-design.jpeg">\
 
 * **Global Supply Chain Management**
-  * sourcing and procurement (Which flowers can be locally sourced?  Which need to come from overseas?)\
-  * demand planning and distribution (How many of each type do we need?)\
-  * logistics management and transportation (How do we move the completed float from Irwindale to Pasadena?)\
+  * sourcing and procurement (Which flowers can be locally sourced?  Which need to come from overseas?)
+  * demand planning and distribution (How many of each type do we need?)
+  * logistics management and transportation (How do we move the completed float from Irwindale to Pasadena?)
   * warehousing and materials handling (Do some flowers need to be kept chilled?  How much space do we need to build the float electronics?)\
 <img src = "images/in-construction.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/in-construction.jpeg">\
 
 * **Systems and Operations Management**
-  * operations planning and scheduling (How many volunteers do we need in the last week before Jan. 1 to attach flowers?)\
-  * inventory and materials management (Are all parts, and spare parts, cataloged, organized, and readily accessible?)\
-  * quality management (Does the final float design meet the initial specifications?)\
-  * project management (Are the scope, timeline, labor, materials, and risks being managed throughout the entire float lifecycle?)\
-  * systems analysis and design (Have we mapped out each process, each workflow, and related interactions to understand the entire float ecosystem?)\
+  * operations planning and scheduling (How many volunteers do we need in the last week before Jan. 1 to attach flowers?)
+  * inventory and materials management (Are all parts, and spare parts, cataloged, organized, and readily accessible?)
+  * quality management (Does the final float design meet the initial specifications?)
+  * project management (Are the scope, timeline, labor, materials, and risks being managed throughout the entire float lifecycle?)
+  * systems analysis and design (Have we mapped out each process, each workflow, and related interactions to understand the entire float ecosystem?)
   * decision support systems (Have our analytical spreadsheets and software been programmed well enough to help leverage opportunities and overcome challenges?)\
 <img src = "images/in-parade.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/in-parade.jpeg">\
 
 * **Business Analytics**
-  * descriptive analytics (How many visitors came to see the floats on display this year?  How does that compare to last year?)\
-  * diagnostic analytics (Is there a statistically significant difference in visitors due to, say, weather?)\
-  * predictive analytics (How many families are likely to come next year?  How many senior citizens are likely to come next year?)\
+  * descriptive analytics (How many visitors came to see the floats on display this year?  How does that compare to last year?)
+  * diagnostic analytics (Is there a statistically significant difference in visitors due to, say, weather?)
+  * predictive analytics (How many families are likely to come next year?  How many senior citizens are likely to come next year?)
   * prescriptive analytics (Which volunteers should be staged on which days and at which times to visitors with the Alhambra float?)\
 <img src = "images/on-display.jpg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/on-display.jpg">\
 
