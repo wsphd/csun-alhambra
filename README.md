@@ -34,7 +34,7 @@
 <br />
 <img src = "images/initial-design.jpeg" width = "400" alt = "initial design of float">
 
-<b />
+<r />
 
 * **Global Supply Chain Management**
   * *sourcing and procurement* (Which flowers can be locally sourced?  Which need to come from overseas?)
@@ -63,5 +63,4 @@
   * *prescriptive analytics* (Which volunteers should be staged on which days and at which times to visitors with the Alhambra float?)
 <br />
 <img src = "images/on-display.jpg" width = "400" alt = "float on display">
-
 
