@@ -32,11 +32,7 @@
   * *IT computers* (What is the number, configuration, and use of PCs and Macs?  Which Cloud services, such as AWS, should we use for servers and services?  Which files and file formats do we use of design objects?)
   * *IT networks* (Should we use texting, email, Slack, 'Gram, or something else for communications among various stakeholders? How do store and share data about float details securely?)
 <br />
-<table>
-  <tr>
-    <td width80"></td>
-   <img src = "images/initial-design.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/initial-design.jpeg"></td>
-  </tr>/table>
+<img src = "images/initial-design.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/initial-design.jpeg">
 
 <br/>
 
