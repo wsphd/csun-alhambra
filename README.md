@@ -33,8 +33,7 @@
   * *IT networks* (Should we use texting, email, Slack, 'Gram, or something else for communications among various stakeholders? How do store and share data about float details securely?)
 <br />
 <img src = "images/initial-design.jpeg" width = "400" alt = "initial design of float">
-
-<r />
+<br />
 
 * **Global Supply Chain Management**
   * *sourcing and procurement* (Which flowers can be locally sourced?  Which need to come from overseas?)
