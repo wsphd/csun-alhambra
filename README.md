@@ -29,7 +29,7 @@
 ## Majors (as might be applied to the City's Rose Parade float)
 
 * **Information Systems**
-  * *IT computers* (What is the number, configuration, and use of PCs and Macs?  Which Cloud services, such as AWS, should we use for servers and services?  Which files and file formats do we use of design objects?)
+  * *IT computers* (What is the number, configuration, and use of PCs and Macs?  Which Cloud services, such as AWS, should we use for servers and services?  Which files and file formats do we use for design objects?)
   * *IT networks* (Should we use texting, email, Slack, 'Gram, or something else for communications among various stakeholders? How do store and share data about float details securely?)
 <br />
 <img src = "images/initial-design.jpeg" width = "400" alt = "initial design of float">
@@ -47,8 +47,8 @@
 * **Systems and Operations Management**
   * *operations planning and scheduling* (How many volunteers do we need in the last week before Jan. 1 to attach flowers?)
   * *inventory and materials management* (Are all parts, and spare parts, cataloged, organized, and readily accessible?)
-  * *quality management* (Does the final float design meet the initial specifications?)
-  * *project management* (Are the scope, timeline, labor, materials, and risks being managed throughout the entire float lifecycle?)
+  * *quality management* (Does the final float design meet the required, agreed-upon specifications?)
+  * *project management* (Are the details related to scope, timeline, labor, materials, continguencies, and risk being managed throughout the entire float lifecycle?)
   * *systems analysis and design* (Have we mapped out each process, each workflow, and related interactions to understand the entire float ecosystem?)
   * *decision support systems* (Have our analytical spreadsheets and software been programmed well enough to help leverage opportunities and overcome challenges?)
 <br />
@@ -59,7 +59,7 @@
   * *descriptive analytics* (How many visitors came to see the floats on display this year?  How does that compare to last year?)
   * *diagnostic analytics* (Is there a statistically significant difference in visitors due to, say, weather?)
   * *predictive analytics* (How many families are likely to come next year?  How many senior citizens are likely to come next year?)
-  * *prescriptive analytics* (Which volunteers should be staged on which days and at which times to visitors with the Alhambra float?)
+  * *prescriptive analytics* (Specifically, which volunteers should be staged on which days and at which times to help visitors see the Alhambra float?)
 <br />
 <img src = "images/on-display.jpg" width = "400" alt = "float on display">
 
