@@ -34,10 +34,9 @@
 <br />
 <table>
   <tr>
-    <td width="40"></td>
-    <<img src = "images/initial-design.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/initial-design.jpeg"></td>
-  </tr>
-<a/tble>
+    <td width80"></td>
+   <img src = "images/initial-design.jpeg" width = "400" alt = "https://github.com/wsphd/csun-alhambra/images/initial-design.jpeg"></td>
+  </tr>/table>
 
 <br/>
 
