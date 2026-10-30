@@ -29,8 +29,11 @@
 ## Majors (as might be applied to the City's Rose Parade float)
 
 * **Information Systems**
-  * *IT computers* (What is the number, configuration, and use of PCs and Macs?  Which Cloud services, such as AWS, should we use for servers and services?  Which files and file formats do we use for design objects?)
-  * *IT networks* (Should we use texting, email, Slack, 'Gram, or something else for communications among various stakeholders? How do store and share data about float details securely?)
+  * *IS hardware* (What is the number, configuration, and use of PCs and Mac desktop technologies?  Which cloud services, such as AWS, should we use for servers and services?)
+  * *IS software* (Which design, presentation, project management, and other workflow applications are needed?  How do we best leverage GenAI to optimize tasks?)
+  * *IS networks* (Should we use texting, email, Slack, 'Gram, or something else for communications among various stakeholders?  How should are local-area and wide-area networks be configured?)
+  * *IS data* (Which files and file formats do we use for float design objects? What type of data warehouse technology is needed for day-to-day operations and regular analytics?)
+  * *IS security* (How do we store and share data about float details securely? How do we prevent and respond to attack attempts?)
 <br />
 <img src = "images/initial-design.jpeg" width = "400" alt = "initial design of float">
 <br />
